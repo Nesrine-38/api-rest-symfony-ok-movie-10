@@ -1,0 +1,35 @@
+[
+    {
+        "_id": "ecbaf99f-611f-4c62-b0b2-dcf13014c97c",
+        "colId": "history",
+        "containerId": "",
+        "name": "localhost:8000/api/movie",
+        "url": "localhost:8000/api/movie",
+        "method": "GET",
+        "sortNum": 0,
+        "created": "2023-07-04T08:21:15.878Z",
+        "modified": "2023-07-04T08:21:15.878Z",
+        "headers": [],
+        "params": [],
+        "tests": []
+    },
+    {
+        "_id": "f167e9a9-a197-4eb5-bcbf-b4adcfa19f5b",
+        "colId": "history",
+        "containerId": "",
+        "name": "localhost:8000/api/movie",
+        "url": "localhost:8000/api/movie",
+        "method": "POST",
+        "sortNum": 0,
+        "created": "2023-07-04T08:21:18.957Z",
+        "modified": "2023-07-04T08:27:47.448Z",
+        "headers": [],
+        "params": [],
+        "body": {
+            "type": "json",
+            "raw": "{ \"title\":\"film\",\n  \"content\":\"film fjzfgzhfjkz\",\n  \"released\":\"1998-01-07T00:00:00+01:00\",\n  \"duration\":100\n\n}\n",
+            "form": []
+        },
+        "tests": []
+    }
+]
